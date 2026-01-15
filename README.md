@@ -1,5 +1,7 @@
 ## Hi, I'm Maya Ocasio 👋
 
+I am a student at **Southern Illinois University Edwardsville (SIUE)** studying Mass Communications with a concentration in Advertising and Strategic Media.
+
 <!--
 **maocasi/maocasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
